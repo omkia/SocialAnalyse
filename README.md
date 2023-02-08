@@ -2,6 +2,8 @@
 
 ## DataSets
 
+http://snap.stanford.edu/data/index.html
+
 ## Data cleansing
 
 ## Feature selection

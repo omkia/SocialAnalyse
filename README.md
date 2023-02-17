@@ -32,3 +32,6 @@ https://orangedatamining.com/widget-catalog/networks/networkanalysis/
 ## evaluation
 
 ## visualization
+
+## Modeling
+https://www.eurandom.tue.nl/wp-content/uploads/2019/07/ERGM_Workshop_Koskinen.pptx.pdf

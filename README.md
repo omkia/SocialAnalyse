@@ -4,6 +4,10 @@
 
 http://snap.stanford.edu/data/index.html
 
+دیتاستی که در دو تا رفرنسهای پروپزال طرح اشاره شده بود : polblog
+http://konect.cc/networks/dimacs10-polblogs/
+https://networkrepository.com/polblogs.php
+
 ## Data cleansing
 
 ## Feature selection
